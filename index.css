@@ -294,8 +294,7 @@ body {
 .garantia__title {
     display: inline-block;
     padding-top: 140px;
-    padding-left: 195px;
-    padding-bottom: 30px;
+    padding-left: 275px;
 }
 .garantia {
     display: flex;
@@ -305,7 +304,7 @@ body {
     padding-bottom: 140px;
 }
 .garantia__text {
-    margin-top: 20px;
+    margin-top: 10px;
     width: 700px;
     font-size: 1.8rem;
 }
